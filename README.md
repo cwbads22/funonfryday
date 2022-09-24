@@ -5,4 +5,4 @@
 <p>Maybe the start of a series on Frydays. After a week full of studying and working serious on my projects, <br>
 why not enjoy some time developing anything that comes to mind? No rules, no deadlines, no guides, just fun!</p>
 <br>
-Link:
+Link: https://cwbads22.github.io/funonfryday/index.html
